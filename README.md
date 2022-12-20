@@ -6,7 +6,7 @@ Me chamo Rafael Ferreira, estou cursando Análise e Desenvolvimento de Sistemas 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-ferreira-706964210/) 
 
 <a href="mailto:ratf705@gmail.com">
-        <img src="https://camo.githubusercontent.com/5bb6749263c6bdd3215919bf47f2a341a41c2aa1c7fbb4959d8298d998e15960/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6775737461766f6a7334313740676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:ratf705@gmail.com" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/5bb6749263c6bdd3215919bf47f2a341a41c2aa1c7fbb4959d8298d998e15960/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4431343833363f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6775737461766f6a7334313740676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/gmail-D14836?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:ratf705@gmail.com" img align="left" style="max-width: 100%;">
     </a>
 
 # 💻 Tech Stack:
