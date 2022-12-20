@@ -1,4 +1,4 @@
-## Olá, sou o Rafa👋
+## Olá, sou o Rafa 💜
 
 ![](./img/header.jpg)
 
