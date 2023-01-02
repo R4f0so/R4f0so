@@ -1,4 +1,4 @@
-## Olá, sou o Rafa 💜
+## Sou o Rafa, seja bem-vindo(a) ao meu perfil 💜
 
 ![](./img/header.jpg)
 
