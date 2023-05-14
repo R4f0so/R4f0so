@@ -28,8 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f0so&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <br><br><br>
 
-## 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=R4f0so&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 Troféus do GitHub -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=R4f0so&theme=discord&no-frame=true&no-bg=true&margin-w=4) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=R4f0so&icon=7&color=6)](https://visitcount.itsvg.in)
