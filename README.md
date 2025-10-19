@@ -3,9 +3,9 @@
 ![](./img/header.jpg)
 
 # 🧙‍♂️ Sobre Mim:
- • Meu nome é Rafael Ferreira Martins, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e busco por oportunidades de estágio que me permitam crescer, aprender e a melhorar minhas habilidades. 
+ • Me chamo Rafael Ferreira Martins, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e busco por oportunidades que me permitam crescer, aprender e a melhorar minhas habilidades. 
 <br>
- • No momento, estou focando meus esforços na criação de um portfólio para apresentar melhor minhas habilidades técnicas e espero poder atuar como um Dev Front-end no futuro.
+ • No momento, estou focando meus esforços na criação de um portfólio para apresentar melhor minhas habilidades técnicas.
 <br><br><br>
 
 
