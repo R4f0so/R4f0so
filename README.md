@@ -12,7 +12,7 @@
 Sou **Rafael Ferreira Martins**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba**.  
 Busco oportunidades que me permitam **crescer, aprender e aprimorar minhas habilidades técnicas**.  
 
-🎯 Atualmente, estou desenvolvendo meu **portfólio online**, com foco em **design limpo, desenvolvimento web** e **análise de dados**.
+🎯 Atualmente, estou desenvolvendo meu **portfólio online**, com foco em  **design limpo, desenvolvimento web e mobile** e **análise de dados**.
 
 <br>
 
@@ -45,13 +45,18 @@ Busco oportunidades que me permitam **crescer, aprender e aprimorar minhas habil
 
 ---
 
-### 📊 Estatísticas do GitHub  
+### 📊 Estatísticas  
 
-![](https://github-readme-stats.vercel.app/api?username=R4f0so&theme=tokyonight&hide_border=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=R4f0so&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f0so&theme=tokyonight&hide_border=true&layout=compact)
+<div align="center">
+
+<!-- Linguagens principais -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=R4f0so&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000&text_color=A57A71&title_color=A57A71)
 
 <br>
+
+💻 **Ativo desde 2022** — construindo projetos com foco em design, desenvolvimento e dados.
+
+</div>
 
 ---
 
@@ -59,7 +64,6 @@ Busco oportunidades que me permitam **crescer, aprender e aprimorar minhas habil
 
 [![](https://visitcount.itsvg.in/api?id=R4f0so&icon=7&color=6)](https://visitcount.itsvg.in)
 
-🪶 *Hecho con mucho cariño por [R4f0so](https://github.com/R4f0so)* 💜 
+🪶 *Feito com amor por [R4f0so](https://github.com/R4f0so)* 🤎  
 
 </div>
-
