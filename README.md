@@ -9,8 +9,7 @@
 ---
 
 ### 🧙‍♂️ Sobre Mim  
-Sou **Rafael Ferreira Martins**, estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba**.  
-Busco oportunidades que me permitam **crescer, aprender e aprimorar minhas habilidades técnicas**.  
+Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba**. Sempre em buscas de oportunidades que me permitam **crescer, aprender e aprimorar minhas habilidades técnicas**.  
 
 🎯 Atualmente, estou desenvolvendo meu **portfólio online**, com foco em  **design limpo, desenvolvimento web e mobile** e **análise de dados**.
 
